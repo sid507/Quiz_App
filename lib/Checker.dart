@@ -3,7 +3,7 @@ import 'Question.dart';
 class Checker {
   int _qnum = 0;
   List<Question> q = [
-    Question("Everything in Flutter is Widget", true),
+    Question("Everything in Flutter is Widget Answer in true or false", true),
     Question("Flutter is based on Java Programming lang", false),
     Question(
         "Widgets in flutter are categorized as Stateful and Stateless", true)
