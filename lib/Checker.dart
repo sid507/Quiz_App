@@ -29,6 +29,8 @@ class Checker {
   }
 
   void reset() {
+    //reseting the numbers
+    _qnum=2;
     _qnum = 0;
   }
 }
